@@ -7,11 +7,13 @@ Data Analysis: Perform various data analysis tasks to gain insights into the mus
 Querying: Create SQL queries to retrieve specific information from the database for reporting and decision-making purposes.
 
 **Database and Tools**
+
 MySQL
 MySQL Workbench
 
 
 **Getting Started:**
+
 To get started with this project, follow these steps:
 
 Database Setup: Set up a MySQL database and import the provided SQL scripts to create the necessary tables and populate them with data.
@@ -19,6 +21,7 @@ Database Setup: Set up a MySQL database and import the provided SQL scripts to c
 Run Queries: Use SQL queries to perform various analyses and retrieve the desired information from the database. You can use tools like MySQL Workbench or the command-line interface to run your queries.
 
 **Example Queries**
+
 Here are some example SQL queries that you can use for analysis:
 
 Query to find the top-selling albums or artists.
@@ -28,9 +31,11 @@ Query to calculate total revenue for a specific time period.
 Query to identify the most active customers.
 
 **Usage**
+
 After setting up the database and importing the data, you can start querying and analyzing the music store data information stored in the tables. Utilize SQL statements to perform tasks such as filtering, sorting, aggregating, and generating insights based on the available data.
 
 Feel free to explore the SQL code and modify it according to your analysis requirements.
 
 **Contributing**
+
 Contributions to the Music_Store_Analysis project are welcome. If you find any issues, have suggestions, or want to contribute improvements, please create a pull request with your changes.
